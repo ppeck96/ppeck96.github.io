@@ -1,2 +1,2 @@
 # Hello World!
-All work and no play makes Jack a dull boy.
+All work and no [play](/example) makes Jack a dull boy.
